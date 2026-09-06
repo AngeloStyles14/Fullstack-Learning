@@ -1,4 +1,4 @@
-Algoritmo Operadores_logicos_ejer1
+Algoritmo Operadores_logicos_ejer2
 //Escribe un programa que: Pida tres números
 //Calcule su media y Muestre el resultado
 	
@@ -6,7 +6,7 @@ Algoritmo Operadores_logicos_ejer1
 	Definir Num1 Como Entero
 	Definir Num2 Como Entero
 	Definir Num3 Como Entero
-	Definir Media Como Entero
+	Definir Media Como Real
 	
 	Escribir "Digite un numero"
 	Leer Num1
