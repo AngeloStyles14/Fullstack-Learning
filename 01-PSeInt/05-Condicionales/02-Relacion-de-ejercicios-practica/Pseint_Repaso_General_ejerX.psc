@@ -1,9 +1,9 @@
 Algoritmo Repaso_General_ejer10
 //Ejercicio 10:
-//Pide un número e indica:
-//- 'Múltiplo de 2' si es divisible entre 2
-//- 'Múltiplo de 3' si es divisible entre 3
-//- 'No es múltiplo de 2 ni de 3' en caso contrario
+//Pide un nÃºmero e indica:
+//- 'MÃºltiplo de 2' si es divisible entre 2
+//- 'MÃºltiplo de 3' si es divisible entre 3
+//- 'No es mÃºltiplo de 2 ni de 3' en caso contrario
 
 	//Variables
 	Definir Num Como Entero
