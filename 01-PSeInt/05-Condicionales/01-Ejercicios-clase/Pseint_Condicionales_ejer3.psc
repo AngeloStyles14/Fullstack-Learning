@@ -1,8 +1,8 @@
 Algoritmo Condicionales_ejer3
 //Escribe un programa que: Pida la edad del usuario
 //Muestre el tipo de entrada que le corresponde:
-//Si tiene menos de 12 años ? mostrar "Entrada infantil"
-//Si tiene 65 años o más ? mostrar "Entrada reducida"
+//Si tiene menos de 12 aÃ±os ? mostrar "Entrada infantil"
+//Si tiene 65 aÃ±os o mÃ¡s ? mostrar "Entrada reducida"
 //En cualquier otro caso ? mostrar "Entrada general
 	
 	//Variables
