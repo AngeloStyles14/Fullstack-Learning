@@ -1,8 +1,8 @@
 Algoritmo Condicionales_ejer2
 //Escribe un programa que: Pida la temperatura actual
-//Muestre un mensaje según el valor introducido:
-//Si la temperatura es menor que 10 grados ? mostrar "Hace frío"
-//Si la temperatura está entre 10 y 24 grados ? mostrar "Temperatura agradable"
+//Muestre un mensaje segÃºn el valor introducido:
+//Si la temperatura es menor que 10 grados ? mostrar "Hace frÃ­o"
+//Si la temperatura estÃ¡ entre 10 y 24 grados ? mostrar "Temperatura agradable"
 //Si la temperatura es igual o mayor que 25 grados ? mostrar "Hace calor
 	
 	//Variables
