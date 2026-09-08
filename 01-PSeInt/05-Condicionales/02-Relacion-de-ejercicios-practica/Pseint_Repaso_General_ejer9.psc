@@ -1,11 +1,11 @@
 Algoritmo Repaso_General_ejer9
-//Pide una contraseña. Si es igual a 'admin', muestra 'Acceso permitido'. En caso contrario,
+//Pide una contraseÃ±a. Si es igual a 'admin', muestra 'Acceso permitido'. En caso contrario,
 //muestra 'Acceso denegado'..
 
 	//Variables
 	Definir Clave Como Caracter
 	
-	Escribir "Escriba la Contraseña: "
+	Escribir "Escriba la ContraseÃ±a: "
 	Leer Clave
 	
 	Si Clave = "admin" entonces
