@@ -1,8 +1,8 @@
 Algoritmo Condicionales_ejer1
 //Escribe un programa que: Pida la edad de una persona
-//Muestre un mensaje según su edad: Si tiene menos de 18 años ? mostrar "Menor de edad"
-//Si tiene entre 18 y 64 años ? mostrar "Adulto"
-//Si tiene 65 años o más ? mostrar "Persona jubilada o en edad de jubilación
+//Muestre un mensaje segÃºn su edad: Si tiene menos de 18 aÃ±os ? mostrar "Menor de edad"
+//Si tiene entre 18 y 64 aÃ±os ? mostrar "Adulto"
+//Si tiene 65 aÃ±os o mÃ¡s ? mostrar "Persona jubilada o en edad de jubilaciÃ³n
 	
 	//Variables
 	Definir edad Como Entero
